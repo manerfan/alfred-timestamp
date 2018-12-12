@@ -1,0 +1,33 @@
+{
+  "name": "alfred-timestamp",
+  "version": "0.1.0",
+  "description": "时间戳与格式化日期相互转换 Convert between Timestamp and Formatted Date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manerfan/alfred-timestamp.git"
+  },
+  "keywords": [
+    "alfred",
+    "timestamp"
+  ],
+  "author": "manerfan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/manerfan/alfred-timestamp/issues"
+  },
+  "homepage": "https://github.com/manerfan/alfred-timestamp#readme",
+  "dependencies": {
+    "alfred-notifier": "^0.2.3",
+    "alfy": "^0.8.0",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0"
+  }
+}
