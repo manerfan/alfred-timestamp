@@ -22,3 +22,11 @@ alfred-timestamp will automatically convert the timestamp (formatted date) to fo
 Press <kbd>Enter</kbd>, Copy result to Clipboard.  
 Hold <kbd>Command</kbd> and Press <kbd>Enter</kbd>, Show on Large Type and Copy to Clipboard.
 
+## Related
+
+- [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
+- [moment](http://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
+
+## License
+
+[Apache 2.0](LICENSE) © [ManerFan](https://github.com/manerfan)
