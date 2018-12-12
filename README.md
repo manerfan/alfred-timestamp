@@ -1,14 +1,15 @@
-# alfred-timestamp
+# alfred-timestamp-conv
 
 > [Alfred 3](https://www.alfredapp.com/) workflow，时间戳与格式化日期相互转换 Convert between Timestamp and Formatted Date
 
+![](docs/timestamp.gif)
 ![](docs/1.jpg)  
 ![](docs/2.jpg)  
 
 ## Install
 
 ```js
-$ npm install --global alfred-timestamp-date
+$ npm install --global alfred-timestamp-conv
 ```
 
 Requires [Node.js](https://nodejs.org/) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).
@@ -17,7 +18,7 @@ Requires [Node.js](https://nodejs.org/) 4+ and the Alfred [Powerpack](https://ww
 
 In Alfred, type `time`, <kbd>Enter</kbd> or <kbd>Space</kbd>, and the timestamp or formatted date.
 
-alfred-timestamp-date will automatically convert the timestamp (formatted date) to formatted date (timestamp)
+alfred-timestamp-conv will automatically convert the timestamp (formatted date) to formatted date (timestamp)
 
 Press <kbd>Enter</kbd>, Copy result to Clipboard.  
 Hold <kbd>Command</kbd> and Press <kbd>Enter</kbd>, Show on Large Type and Copy to Clipboard.

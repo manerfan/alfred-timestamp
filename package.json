@@ -1,5 +1,5 @@
 {
-  "name": "alfred-timestamp-date",
+  "name": "alfred-timestamp-conv",
   "version": "0.1.0",
   "description": "时间戳与格式化日期相互转换 Convert between Timestamp and Formatted Date",
   "main": "index.js",
