@@ -8,7 +8,7 @@
 ## Install
 
 ```js
-$ npm install --global alfred-timestamp
+$ npm install --global alfred-timestamp-date
 ```
 
 Requires [Node.js](https://nodejs.org/) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).
@@ -17,7 +17,7 @@ Requires [Node.js](https://nodejs.org/) 4+ and the Alfred [Powerpack](https://ww
 
 In Alfred, type `time`, <kbd>Enter</kbd> or <kbd>Space</kbd>, and the timestamp or formatted date.
 
-alfred-timestamp will automatically convert the timestamp (formatted date) to formatted date (timestamp)
+alfred-timestamp-date will automatically convert the timestamp (formatted date) to formatted date (timestamp)
 
 Press <kbd>Enter</kbd>, Copy result to Clipboard.  
 Hold <kbd>Command</kbd> and Press <kbd>Enter</kbd>, Show on Large Type and Copy to Clipboard.
