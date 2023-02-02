@@ -24,7 +24,7 @@
   "homepage": "https://github.com/manerfan/alfred-timestamp#readme",
   "dependencies": {
     "alfred-notifier": "^0.2.3",
-    "alfy": "^0.8.0",
+    "alfy": "^1.1.0",
     "moment": "^2.22.2"
   },
   "devDependencies": {
